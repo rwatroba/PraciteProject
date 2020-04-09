@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="8" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-09T14:27:37 CEST" name="Main Suite" finished-at="2020-04-09T14:27:37 CEST" duration-ms="99">
+    <groups>
+      <group name="cars">
+        <method signature="GroupTestCase.printFiat()[pri:0, instance:practicepackage.GroupTestCase@1df82230]" name="printFiat" class="practicepackage.GroupTestCase"/>
+        <method signature="GroupTestCase.printPeugeot()[pri:0, instance:practicepackage.GroupTestCase@1df82230]" name="printPeugeot" class="practicepackage.GroupTestCase"/>
+      </group> <!-- cars -->
+      <group name="animals">
+        <method signature="GroupTestCase.printCats()[pri:0, instance:practicepackage.GroupTestCase@65d6b83b]" name="printCats" class="practicepackage.GroupTestCase"/>
+        <method signature="GroupTestCase.printDogs()[pri:0, instance:practicepackage.GroupTestCase@65d6b83b]" name="printDogs" class="practicepackage.GroupTestCase"/>
+      </group> <!-- animals -->
+    </groups>
+    <test started-at="2020-04-09T14:27:37 CEST" name="Animals Test" finished-at="2020-04-09T14:27:37 CEST" duration-ms="99">
+      <class name="practicepackage.GroupTestCase">
+        <test-method signature="printCats()[pri:0, instance:practicepackage.GroupTestCase@65d6b83b]" started-at="2020-04-09T14:27:37 CEST" name="printCats" finished-at="2020-04-09T14:27:37 CEST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printCats -->
+        <test-method signature="printDogs()[pri:0, instance:practicepackage.GroupTestCase@65d6b83b]" started-at="2020-04-09T14:27:37 CEST" name="printDogs" finished-at="2020-04-09T14:27:37 CEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printDogs -->
+      </class> <!-- practicepackage.GroupTestCase -->
+    </test> <!-- Animals Test -->
+    <test started-at="2020-04-09T14:27:37 CEST" name="Cars Test" finished-at="2020-04-09T14:27:37 CEST" duration-ms="99">
+      <class name="practicepackage.GroupTestCase">
+        <test-method signature="printFiat()[pri:0, instance:practicepackage.GroupTestCase@1df82230]" started-at="2020-04-09T14:27:37 CEST" name="printFiat" finished-at="2020-04-09T14:27:37 CEST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFiat -->
+        <test-method signature="printPeugeot()[pri:0, instance:practicepackage.GroupTestCase@1df82230]" started-at="2020-04-09T14:27:37 CEST" name="printPeugeot" finished-at="2020-04-09T14:27:37 CEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printPeugeot -->
+      </class> <!-- practicepackage.GroupTestCase -->
+    </test> <!-- Cars Test -->
+  </suite> <!-- Main Suite -->
+</testng-results>
