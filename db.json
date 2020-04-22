@@ -1,22 +1,31 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 4,
-      "title": "mello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "resting": {
-    "sport": ["football","tennis"],
-    "music":{
-      "rock":["hooba","doors"],
-      "pop":["flower","peter"]
-    }
-  }
+   "posts":[
+      {
+         "id":1,
+         "title":"hello"
+      },
+      {
+         "id":4,
+         "title":"mello"
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   },
+   "resting":{
+      "sport":[
+         "football",
+         "tennis"
+      ],
+      "music":{
+         "rock":[
+            "hooba",
+            "doors"
+         ],
+         "pop":[
+            "flower",
+            "peter"
+         ]
+      }
+   }
 }
