@@ -11,5 +11,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "resting": {
+    "sport": ["football","tennis"],
+    "music":{
+      "rock":["hooba","doors"],
+      "pop":["flower","peter"]
+    }
   }
 }
