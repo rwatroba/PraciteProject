@@ -18,10 +18,10 @@
          "tennis"
       ],
       "music":{
-         "rock":[
-            "hooba",
-            "doors"
-         ],
+         "rock":{
+            "hooba": 11,
+            "doors": "ok"
+         },
          "pop":[
             "flower",
             "peter"
